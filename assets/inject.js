@@ -3,7 +3,8 @@ let dbAds=[
     "target-selector":[
       ".container",
       "#container",
-      ".content"
+      ".content",
+      ".ns-uey29-l-bannerB"
     ],
     "position":"out-top", //out-top, out-bottom, in-top, in-bottom
     "data" :`
